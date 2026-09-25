@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
   <head>
-    <title>Zero Noise - High SNR Feeds</title>
+    <title>Zero Noise - Curated High SNR Feeds</title>
   </head>
   <body>
-    <outline text="AI Engineering">
+    <outline text="AI & ML Engineering">
       <outline text="Simon Willison" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="https://simonwillison.net/"/>
+      <outline text="Lilian Weng" xmlUrl="https://lilianweng.github.io/index.xml" htmlUrl="https://lilianweng.github.io/"/>
       <outline text="Anthropic News" xmlUrl="https://www.anthropic.com/news/feed" htmlUrl="https://www.anthropic.com/news"/>
+      <outline text="OpenAI Blog" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news/"/>
     </outline>
-    <outline text="Architecture & Systems">
+    <outline text="Systems & Infrastructure">
       <outline text="Cloudflare Blog" xmlUrl="https://blog.cloudflare.com/rss/" htmlUrl="https://blog.cloudflare.com/"/>
+      <outline text="Fly.io Phoenix Files" xmlUrl="https://fly.io/blog/feed.xml" htmlUrl="https://fly.io/blog/"/>
       <outline text="Dan Luu" xmlUrl="https://danluu.com/atom.xml" htmlUrl="https://danluu.com/"/>
+      <outline text="Antirez Weblog" xmlUrl="http://antirez.com/rss" htmlUrl="http://antirez.com/"/>
+      <outline text="Mitchell Hashimoto" xmlUrl="https://mitchellh.com/feed.xml" htmlUrl="https://mitchellh.com/"/>
+    </outline>
+    <outline text="Builders & Indie Business">
+      <outline text="Paul Graham Essays" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" htmlUrl="https://paulgraham.com/"/>
+      <outline text="Derek Sivers" xmlUrl="https://sive.rs/en.atom" htmlUrl="https://sive.rs/"/>
+      <outline text="Gwern Branwen" xmlUrl="https://gwern.net/feed/index.xml" htmlUrl="https://gwern.net/"/>
     </outline>
   </body>
 </opml>
