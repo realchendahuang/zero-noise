@@ -4,7 +4,11 @@
 > Curated high-SNR feeds, newsletters & sources for builders.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/realchendahuang/zero-noise?style=social)](https://github.com/realchendahuang/zero-noise)
+[![GitHub forks](https://img.shields.io/github/forks/realchendahuang/zero-noise?style=social)](https://github.com/realchendahuang/zero-noise/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/realchendahuang/zero-noise)](https://github.com/realchendahuang/zero-noise/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/realchendahuang/zero-noise/pulls)
+[![Follow @realchendahuang](https://img.shields.io/badge/Follow-%40realchendahuang-1DA1F2?logo=x&logoColor=white)](https://x.com/realchendahuang)
 
 ---
 
