@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Zero Noise - High SNR Feeds</title>
+  </head>
+  <body>
+    <outline text="AI Engineering">
+      <outline text="Simon Willison" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="https://simonwillison.net/"/>
+      <outline text="Anthropic News" xmlUrl="https://www.anthropic.com/news/feed" htmlUrl="https://www.anthropic.com/news"/>
+    </outline>
+    <outline text="Architecture & Systems">
+      <outline text="Cloudflare Blog" xmlUrl="https://blog.cloudflare.com/rss/" htmlUrl="https://blog.cloudflare.com/"/>
+      <outline text="Dan Luu" xmlUrl="https://danluu.com/atom.xml" htmlUrl="https://danluu.com/"/>
+    </outline>
+  </body>
+</opml>
